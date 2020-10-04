@@ -1,0 +1,3 @@
+[submodule "Hoster/SFSyms"]
+	path = Hoster/SFSyms
+	url = https://github.com/praveenvelanati/SFSyms.git
